@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A modern, offline-first Expense Tracker app with advanced categorization, beautiful interactive statistics, budget warning threshold notifications, multi-currency backup, export functionality, and AI-driven spending optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
